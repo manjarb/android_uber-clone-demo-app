@@ -1,0 +1,3 @@
+# Referenced at /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/manifests/full/debug/AndroidManifest.xml:36
+-keep class com.parse.starter.StarterApplication { <init>(...); }
+
