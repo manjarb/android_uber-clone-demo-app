@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/varis/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5764ed2cfe5d0dc3e8f4af509053d88e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/9b67dbbf614898dfe4a58ccdd1cc6180/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/b50e0ebb6b13c588a87057763b8f1d29/AndroidManifest.xml:2:1-9:12
@@ -71,20 +71,20 @@ MERGED from [com.android.support:palette-v7:25.2.0] /Users/varis/.gradle/caches/
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/varis/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/01c95539b62620f1e07eebb4217d62a0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/varis/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a07322d87408883172c81e41af568c7b/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/varis/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d53dcdd296ae47b153c5a290d67e7d3e/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
-INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
+INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 	package
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-50:12
+		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-54:12
 		INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
@@ -149,7 +149,7 @@ ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Pars
 	android:name
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-48:19
+ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-52:19
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/9b67dbbf614898dfe4a58ccdd1cc6180/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:11.0.4] /Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/9b67dbbf614898dfe4a58ccdd1cc6180/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/b50e0ebb6b13c588a87057763b8f1d29/AndroidManifest.xml:4:5-8:19
@@ -293,11 +293,21 @@ ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Pars
 	android:name
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:42:13-58
 activity#com.parse.starter.RiderActivity
-ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-47:69
+ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:45:9-47:60
 	android:label
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:47:13-57
 	android:name
 		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:46:13-42
+activity#com.parse.starter.ViewRequestActivity
+ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:48:9-57
+	android:name
+		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:48:19-54
+activity#com.parse.starter.DriverLocationActivity
+ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:49:9-51:79
+	android:label
+		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:51:13-67
+	android:name
+		ADDED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:50:13-51
 uses-sdk
 INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Fri Sep 21 03:32:05 HKT 2018
+base.0=/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10

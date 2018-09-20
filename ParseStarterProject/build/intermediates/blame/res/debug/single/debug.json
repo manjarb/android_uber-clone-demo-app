@@ -1656,6 +1656,10 @@
         "source": "/Users/varis/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/b50e0ebb6b13c588a87057763b8f1d29/res/drawable-xxxhdpi-v4/quantum_ic_skip_next_white_36.png"
     },
     {
+        "merged": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_driver_location.xml.flat",
+        "source": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_driver_location.xml"
+    },
+    {
         "merged": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_mr_vol_type_audiotrack_light.xml.flat",
         "source": "/Users/varis/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d4529f6426ba88b6b68bb8786865dbc0/res/drawable/mr_vol_type_audiotrack_light.xml"
     },
@@ -3578,6 +3582,10 @@
     {
         "merged": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_vol_type_speaker_light.png.flat",
         "source": "/Users/varis/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/d4529f6426ba88b6b68bb8786865dbc0/res/drawable-mdpi-v4/ic_vol_type_speaker_light.png"
+    },
+    {
+        "merged": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_view_request.xml.flat",
+        "source": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_view_request.xml"
     },
     {
         "merged": "/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
