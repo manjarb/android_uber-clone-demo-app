@@ -5,24 +5,24 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.1.4"
-    timestamp="1537472316594"
+    timestamp="1537694404091"
     token="-4312795494705912432"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="897" />
+        duration="205" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="125" />
+        duration="50" />
     <task
         name="verifier"
-        duration="57" />
+        duration="6" />
 
     <artifact
         location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -30,34 +30,25 @@
 
     <build
         build-mode="FULL"
-        timestamp="1537472268220"
+        timestamp="1537692283414"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -66,7 +57,16 @@
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/instant-run-apk/debug/ParseStarterProject-debug.apk"
@@ -74,8 +74,16 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1537472316594"
+        timestamp="1537692557312"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1537694404091"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"

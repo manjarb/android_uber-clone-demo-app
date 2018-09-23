@@ -1,4 +1,4 @@
-#Fri Sep 21 03:32:06 HKT 2018
+#Sun Sep 23 16:45:44 HKT 2018
 base.0=/Users/varis/Sites/practice/andriod/clone_app_demo_projects/Uber-Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex
